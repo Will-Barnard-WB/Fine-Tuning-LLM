@@ -1,4 +1,4 @@
-# 🦙 Fine-Tuning Llama 2 with QLoRA
+# Fine-Tuning Llama 2 with QLoRA
 
 Fine-tune Meta's **Llama-2-7b-chat** on a custom instruction dataset using parameter-efficient fine-tuning (PEFT) with 4-bit quantization — runnable on a single GPU.
 
